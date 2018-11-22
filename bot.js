@@ -83,7 +83,7 @@ if (message.content.startsWith(adminprefix + 'st')) {
  
 client.login(process.env.BOT_TOKEN);
 
-const Discord = require('discord.js');
+
 const client = new Discord.Client();
 var prefix = "3717"// البرفكس هنا
 
